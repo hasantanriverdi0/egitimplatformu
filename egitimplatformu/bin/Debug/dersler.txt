@@ -1,0 +1,6 @@
+Öğrenci: Hasan, Ders: Ders Adı: Coğrafya, Eğitim Saati: 4 Saat
+Öğrenci: Hasan, Ders: Ders Adı: Tarih, Eğitim Saati: 5 Saat
+Öğrenci: Hasan, Ders: Ders Adı: Coğrafya, Eğitim Saati: 4 Saat
+Öğrenci: Hasan, Ders: Ders Adı: Geometri, Eğitim Saati: 6 Saat
+Öğrenci: Hasan, Ders: Ders Adı: Coğrafya, Eğitim Saati: 4 Saat
+Öğrenci: Hasan, Ders: Ders Adı: Matematik, Eğitim Saati: 10 Saat

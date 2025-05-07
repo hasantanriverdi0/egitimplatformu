@@ -1,0 +1,152 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hasan.tanriverdi\\source\\repos\\egitimplatformu\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4B84CCCD-4668-4DA8-A458-20B8A6347532}|egitimplatformu\\egitimplatformu.csproj|c:\\users\\hasan.tanriverdi\\source\\repos\\egitimplatformu\\egitimplatformu\\gorus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B84CCCD-4668-4DA8-A458-20B8A6347532}|egitimplatformu\\egitimplatformu.csproj|solutionrelative:egitimplatformu\\gorus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B84CCCD-4668-4DA8-A458-20B8A6347532}|egitimplatformu\\egitimplatformu.csproj|C:\\Users\\hasan.tanriverdi\\source\\repos\\egitimplatformu\\egitimplatformu\\anasayfa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B84CCCD-4668-4DA8-A458-20B8A6347532}|egitimplatformu\\egitimplatformu.csproj|solutionrelative:egitimplatformu\\anasayfa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B84CCCD-4668-4DA8-A458-20B8A6347532}|egitimplatformu\\egitimplatformu.csproj|C:\\Users\\hasan.tanriverdi\\source\\repos\\egitimplatformu\\egitimplatformu\\gorus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4B84CCCD-4668-4DA8-A458-20B8A6347532}|egitimplatformu\\egitimplatformu.csproj|solutionrelative:egitimplatformu\\gorus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B84CCCD-4668-4DA8-A458-20B8A6347532}|egitimplatformu\\egitimplatformu.csproj|C:\\Users\\hasan.tanriverdi\\source\\repos\\egitimplatformu\\egitimplatformu\\kayit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B84CCCD-4668-4DA8-A458-20B8A6347532}|egitimplatformu\\egitimplatformu.csproj|solutionrelative:egitimplatformu\\kayit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B84CCCD-4668-4DA8-A458-20B8A6347532}|egitimplatformu\\egitimplatformu.csproj|C:\\Users\\hasan.tanriverdi\\source\\repos\\egitimplatformu\\egitimplatformu\\kayit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4B84CCCD-4668-4DA8-A458-20B8A6347532}|egitimplatformu\\egitimplatformu.csproj|solutionrelative:egitimplatformu\\kayit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B84CCCD-4668-4DA8-A458-20B8A6347532}|egitimplatformu\\egitimplatformu.csproj|C:\\Users\\hasan.tanriverdi\\source\\repos\\egitimplatformu\\egitimplatformu\\giris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4B84CCCD-4668-4DA8-A458-20B8A6347532}|egitimplatformu\\egitimplatformu.csproj|solutionrelative:egitimplatformu\\giris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B84CCCD-4668-4DA8-A458-20B8A6347532}|egitimplatformu\\egitimplatformu.csproj|C:\\Users\\hasan.tanriverdi\\source\\repos\\egitimplatformu\\egitimplatformu\\anasayfa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4B84CCCD-4668-4DA8-A458-20B8A6347532}|egitimplatformu\\egitimplatformu.csproj|solutionrelative:egitimplatformu\\anasayfa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B84CCCD-4668-4DA8-A458-20B8A6347532}|egitimplatformu\\egitimplatformu.csproj|C:\\Users\\hasan.tanriverdi\\source\\repos\\egitimplatformu\\egitimplatformu\\giris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B84CCCD-4668-4DA8-A458-20B8A6347532}|egitimplatformu\\egitimplatformu.csproj|solutionrelative:egitimplatformu\\giris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "gorus.cs",
+              "DocumentMoniker": "C:\\Users\\hasan.tanriverdi\\source\\repos\\egitimplatformu\\egitimplatformu\\gorus.cs",
+              "RelativeDocumentMoniker": "egitimplatformu\\gorus.cs",
+              "ToolTip": "C:\\Users\\hasan.tanriverdi\\source\\repos\\egitimplatformu\\egitimplatformu\\gorus.cs",
+              "RelativeToolTip": "egitimplatformu\\gorus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T08:20:51.712Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "gorus.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\hasan.tanriverdi\\source\\repos\\egitimplatformu\\egitimplatformu\\gorus.cs",
+              "RelativeDocumentMoniker": "egitimplatformu\\gorus.cs",
+              "ToolTip": "C:\\Users\\hasan.tanriverdi\\source\\repos\\egitimplatformu\\egitimplatformu\\gorus.cs [Tasar\u0131m]",
+              "RelativeToolTip": "egitimplatformu\\gorus.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T08:15:34.482Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "anasayfa.cs",
+              "DocumentMoniker": "C:\\Users\\hasan.tanriverdi\\source\\repos\\egitimplatformu\\egitimplatformu\\anasayfa.cs",
+              "RelativeDocumentMoniker": "egitimplatformu\\anasayfa.cs",
+              "ToolTip": "C:\\Users\\hasan.tanriverdi\\source\\repos\\egitimplatformu\\egitimplatformu\\anasayfa.cs",
+              "RelativeToolTip": "egitimplatformu\\anasayfa.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T07:06:54.328Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "anasayfa.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\hasan.tanriverdi\\source\\repos\\egitimplatformu\\egitimplatformu\\anasayfa.cs",
+              "RelativeDocumentMoniker": "egitimplatformu\\anasayfa.cs",
+              "ToolTip": "C:\\Users\\hasan.tanriverdi\\source\\repos\\egitimplatformu\\egitimplatformu\\anasayfa.cs [Tasar\u0131m]",
+              "RelativeToolTip": "egitimplatformu\\anasayfa.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T06:59:30.243Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "giris.cs",
+              "DocumentMoniker": "C:\\Users\\hasan.tanriverdi\\source\\repos\\egitimplatformu\\egitimplatformu\\giris.cs",
+              "RelativeDocumentMoniker": "egitimplatformu\\giris.cs",
+              "ToolTip": "C:\\Users\\hasan.tanriverdi\\source\\repos\\egitimplatformu\\egitimplatformu\\giris.cs",
+              "RelativeToolTip": "egitimplatformu\\giris.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADQAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T06:59:03.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "giris.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\hasan.tanriverdi\\source\\repos\\egitimplatformu\\egitimplatformu\\giris.cs",
+              "RelativeDocumentMoniker": "egitimplatformu\\giris.cs",
+              "ToolTip": "C:\\Users\\hasan.tanriverdi\\source\\repos\\egitimplatformu\\egitimplatformu\\giris.cs [Tasar\u0131m]",
+              "RelativeToolTip": "egitimplatformu\\giris.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T05:59:50.708Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "kayit.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\hasan.tanriverdi\\source\\repos\\egitimplatformu\\egitimplatformu\\kayit.cs",
+              "RelativeDocumentMoniker": "egitimplatformu\\kayit.cs",
+              "ToolTip": "C:\\Users\\hasan.tanriverdi\\source\\repos\\egitimplatformu\\egitimplatformu\\kayit.cs [Tasar\u0131m]",
+              "RelativeToolTip": "egitimplatformu\\kayit.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T07:02:15.393Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "kayit.cs",
+              "DocumentMoniker": "C:\\Users\\hasan.tanriverdi\\source\\repos\\egitimplatformu\\egitimplatformu\\kayit.cs",
+              "RelativeDocumentMoniker": "egitimplatformu\\kayit.cs",
+              "ToolTip": "C:\\Users\\hasan.tanriverdi\\source\\repos\\egitimplatformu\\egitimplatformu\\kayit.cs",
+              "RelativeToolTip": "egitimplatformu\\kayit.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T06:58:38.14Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
